@@ -1,7 +1,7 @@
 
 
 import React from 'react';
-//import Restaurant  from './comp/Basics/Restaurant';
+import Restaurant  from './comp/Basics/Restaurant';
 import UseState from "./comp/Hooks/UseState";
 
 
