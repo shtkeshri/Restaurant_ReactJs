@@ -6,8 +6,8 @@ import UseState from "./comp/Hooks/UseState";
 
 
 const App=()=> {
-  return <UseState/>;  
-  
+  return <Restaurant/>;  
+ 
 };
 
 export default App
